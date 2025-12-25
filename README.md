@@ -2,6 +2,7 @@
 
 I am a chemical engineer based out of [Edmonton](https://edmonton.ca/). I mostly do math with [julia](https://julialang.org/) and [blog about it](https://aefarrell.github.io/).
 
+- I maintain a library for [chemical release modelling](https://github.com/aefarrell/GasDispersion.jl) in julia.
 - I have a [PicoCalc](https://www.clockworkpi.com/picocalc) and have a [collection of programs](https://github.com/aefarrell/picomite_library) in PicoMite Basic
 - I have an [AtmoTube PRO](https://atmotube.com/atmotube-pro) and maintain a [python module](https://github.com/aefarrell/PymoTube) for logging data from it using [Bleak](https://github.com/hbldh/bleak)
 
