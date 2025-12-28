@@ -4,7 +4,7 @@ I am a chemical engineer based out of [Edmonton](https://edmonton.ca/). I mostly
 
 - I maintain a library for [chemical release modelling](https://github.com/aefarrell/GasDispersion.jl) in julia.
 - I have a [PicoCalc](https://www.clockworkpi.com/picocalc) and have a [collection of programs](https://github.com/aefarrell/picomite_library) in PicoMite Basic
-- I have an [AtmoTube PRO](https://atmotube.com/atmotube-pro) and maintain a [python module](https://github.com/aefarrell/PymoTube) for logging data from it using [Bleak](https://github.com/hbldh/bleak)
+- I have an [AtmoTube PRO](https://atmotube.com/atmotube-pro) and am working on a [python module](https://github.com/aefarrell/PymoTube) for logging data from it using [Bleak](https://github.com/hbldh/bleak)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aefarrell/aefarrell/output/github-contribution-grid-snake-dark.svg">
